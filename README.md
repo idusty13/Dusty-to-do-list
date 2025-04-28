@@ -82,8 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by various to-do list applications
 - Created as a simple project to demonstrate HTML, CSS, and JavaScript skills
 
-## Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/your-username/dustys-todo-list](https://github.com/your-username/dustys-todo-list)
