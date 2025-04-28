@@ -15,7 +15,7 @@ A simple, elegant, and responsive to-do list application built with HTML, CSS, a
 
 ## Demo
 
-You can see a live demo of the application here: [Your GitHub Pages URL]
+You can see a live demo of the application here: [[Your GitHub Pages URL](https://idusty13.github.io/Dusty-to-do-list/)]
 
 ## Getting Started
 
