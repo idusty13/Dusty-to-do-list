@@ -2,7 +2,7 @@
 
 A simple, elegant, and responsive to-do list application built with HTML, CSS, and JavaScript.
 
-![Dusty's To-Do List](https://api/placeholder/800/400)
+
 
 ## Features
 
