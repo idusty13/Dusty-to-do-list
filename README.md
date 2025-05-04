@@ -13,7 +13,7 @@ A simple, elegant, and responsive to-do list application built with a single HTM
 
 ## Demo
 
-You can see a live demo of the application here: [https://your-username.github.io/dustys-todo-list/](https://your-username.github.io/dustys-todo-list/)
+You can see a live demo of the application here: [[https://your-username.github.io/dustys-todo-list](https://idusty13.github.io/Dusty-to-do-list/)/](https://your-username.github.io/dustys-todo-list/)
 
 ## Getting Started
 
